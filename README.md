@@ -1,5 +1,10 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+# ScreenShot
+
+![Simulator Screen Shot - iPhone 11 Pro - 2023-09-07 at 21 21 28](https://github.com/meantg/nexletest/assets/43744275/c9b9c48b-1e14-4cb4-9bab-90095698ad24)
+![Simulator Screen Shot - iPhone 11 Pro - 2023-09-07 at 21 21 42](https://github.com/meantg/nexletest/assets/43744275/005138c7-a6ad-41b6-99a3-e4aa4743c89b)
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
